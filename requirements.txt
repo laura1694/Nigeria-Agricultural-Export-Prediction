@@ -1,5 +1,5 @@
 streamlit as st
 pandas as pd
 numpy as np
-joblib as jb
+joblib
 sci-kit learn
